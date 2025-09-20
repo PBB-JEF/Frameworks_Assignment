@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit temporary files
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Log files
+*.log
+
+# Dataset (optional if large or sensitive)
+metadata.csv
