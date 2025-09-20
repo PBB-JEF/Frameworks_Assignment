@@ -26,6 +26,18 @@ Explore the CORD-19 dataset (metadata.csv) containing COVID-19 research papers.
 You can search, visualize, and download cleaned data.
 """)
 
+
+Deployment link:  https://elaborate-tanuki-bee7c2.netlify.app (page not found)
+i also tied to deploy it using streamlit community cloud but the metadata.csv we are supposed to use is too big cant be deployed.
+
+Pitch deck canva link: https://www.canva.com/design/DAGzdkOp8OU/QM8hDStLfavdPbM-OPrKVg/edit?utm_content=DAGzdkOp8OU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Git hub repository link: https://github.com/PBB-JEF/Frameworks_Assignment
+
+
+
+
+
 # -------------------------
 # Load Data
 # -------------------------
